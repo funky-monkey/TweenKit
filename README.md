@@ -1,4 +1,4 @@
-tweenkit
+TweenKit
 ========
 
 iOS Animation toolkit
